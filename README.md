@@ -1,1 +1,1 @@
-# ecommerce_server
+# ecommerce-backend
